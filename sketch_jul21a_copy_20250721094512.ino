@@ -10,8 +10,8 @@
 #define WIFI_LED3_PIN   18  // D18
 
 // WiFi Settings
-const char* ssid = "YourWiFiSSID";
-const char* password = "YourWiFiPassword";
+const char* ssid = "MyHome WiFi";
+const char* password = "password@Emmanuel";
 
 // System Parameters
 const int ldrThreshold = 1500;       // Calibrate this value
