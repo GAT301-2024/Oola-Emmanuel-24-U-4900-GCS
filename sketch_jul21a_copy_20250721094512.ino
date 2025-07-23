@@ -121,7 +121,7 @@ void processAutoLight() {
   }
 }
 
-// Enhanced Dashboard with Real-Time Updates
+//Dashboard with Real-Time Updates
 const char* dashboardHTML = R"rawliteral(
 <!DOCTYPE html><html><head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -261,7 +261,7 @@ const char* dashboardHTML = R"rawliteral(
 </head><body>
 <div class="container">
   <div class="header">
-    <h1>Smart Light Control System</h1>
+    <h1>Emmie's Smart Light Control System</h1>
     <p>ESP32 IP: %IP%</p>
   </div>
   
